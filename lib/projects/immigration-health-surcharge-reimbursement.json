@@ -1,0 +1,9 @@
+{
+  "name": "Get an immigration health surcharge refund if you work in health and care",
+  "description": "You may be able to get money back if you paid the immigration health surcharge (IHS) and you work in health and care.",
+  "organisation": "NHS Business Services Authority",
+  "theme": "Money and tax",
+  "phase": "alpha",
+  "liveservice": "https://www.immigration-health-surcharge-reimbursement.service.gov.uk/eligibility/ihs-payment",
+  "start-page": "https://www.gov.uk/apply-immigration-health-surcharge-refund/healthcare-setting"
+}
